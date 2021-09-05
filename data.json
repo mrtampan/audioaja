@@ -1,0 +1,12 @@
+{
+    "music":[
+        {
+            "name":"Weekly After School",
+            "source":"weekly-afterschool.mp3"
+        },
+        {
+            "name":"April Tinkerbell",
+            "source":"april-tinkerbell.mp3"            
+        }
+    ]
+}
