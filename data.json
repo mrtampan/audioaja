@@ -15,6 +15,15 @@
         {
             "name":"Anotano",
             "source":"anotano.mp3"            
-        }
+        },
+        {
+            "name":"Orange",
+            "source":"orange.mp3"            
+        },
+        {
+            "name":"Lemon",
+            "source":"lemon.mp3"            
+        },
+    
     ]
 }
