@@ -1,12 +1,20 @@
 {
     "music":[
         {
-            "name":"Weekly After School",
-            "source":"weekly-afterschool.mp3"
+            "name":"Two Soul Toward the truth",
+            "source":"twosoul.mp3"
         },
         {
-            "name":"April Tinkerbell",
-            "source":"april-tinkerbell.mp3"            
+            "name":"FirstLove",
+            "source":"firstlove.mp3"            
+        },
+        {
+            "name":"Sumika",
+            "source":"sumika.mp3"            
+        },
+        {
+            "name":"Anotano",
+            "source":"anotano.mp3"            
         }
     ]
 }
