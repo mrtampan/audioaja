@@ -1,28 +1,28 @@
 {
-    "music":[
-        {
-            "name":"Two Soul Toward the truth",
-            "source":"twosoul.mp3"
-        },
-        {
-            "name":"FirstLove",
-            "source":"firstlove.mp3"            
-        },
-        {
-            "name":"Sumika",
-            "source":"sumika.mp3"            
-        },
-        {
-            "name":"Anotano",
-            "source":"anotano.mp3"            
-        },
-        {
-            "name":"Orange",
-            "source":"orange.mp3"            
-        },
-        {
-            "name":"Lemon",
-            "source":"lemon.mp3"            
-        }
-    ]
+  "music": [
+    {
+      "name": "Two Soul Toward the truth",
+      "source": "twosoul.mp3"
+    },
+    {
+      "name": "FirstLove",
+      "source": "firstlove.mp3"
+    },
+    {
+      "name": "Sumika",
+      "source": "sumika.mp3"
+    },
+    {
+      "name": "Anotano",
+      "source": "anotano.mp3"
+    },
+    {
+      "name": "Orange",
+      "source": "orange.mp3"
+    },
+    {
+      "name": "Lemon",
+      "source": "lemon.mp3"
+    }
+  ]
 }
